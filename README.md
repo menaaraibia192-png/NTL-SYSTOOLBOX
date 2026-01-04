@@ -1,6 +1,6 @@
-# 🛠️ NTL-SysToolbox
----
-## 🌐 Description du projet (FR)
+ NTL-SysToolbox
+
+🌐 Description du projet (FR)
 
 NTL-SysToolbox est un outil en ligne de commande développé en Python dans le cadre d’un projet académique.  
 Il est destiné à l’équipe informatique de la société fictive **NordTransit Logistics (NTL)**.
@@ -13,7 +13,7 @@ L’outil permet de :
 
 ---
 
-## 🌐 Project Description (EN)
+🌐 Project Description (EN)
 
 NTL-SysToolbox is a Python-based command-line tool developed as part of an academic project.  
 It is designed for the IT team of the fictional company **NordTransit Logistics (NTL)**.
@@ -26,7 +26,7 @@ The tool allows to:
 
 ---
 
-## ⚙️ Prerequisites / Prérequis
+ ⚙️ Prerequisites / Prérequis
 
 - Python 3.8 or higher  
 - MySQL client (`mysqldump`)  
@@ -34,7 +34,7 @@ The tool allows to:
 
 ---
 
-## 🚀 Installation and Execution / Installation et exécution
+ 🚀 Installation and Execution / Installation et exécution
 
 ```bash
 git clone https://github.com/menaaraibia192-png/NTL-SYSTOOLBOX.git
